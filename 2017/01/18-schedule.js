@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
   var width = 640,
       height = 480,
-      chart = d3.select('#schedule-2017-01-16').append('svg')
+      chart = d3.select('#schedule-2017-01-18').append('svg')
                 .attr('width', width)
                 .attr('height', height);
 
